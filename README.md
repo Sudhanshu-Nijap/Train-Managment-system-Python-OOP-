@@ -5,8 +5,11 @@ This repository contains a Train Management System built in Python using Object-
 <ul>
  <li>Train Info</li>
  <li>Train Shedule</li>
+</ul>
 <h4>Tech Stack</h4>
- <ul>Programming Language: Python</ul>
- <ul>OOP Principles</ul>
- <ul>APIs: Railway API for real-time data </ul>ul>
- <ul>Version Control: Git </ul>ul>
+<ul>
+ <li>Programming Language: Python</li>
+ <li>OOP Principles</li>
+ <li>APIs: Railway API for real-time data </li>
+ <li>Version Control: Git</li>
+ </ul>
